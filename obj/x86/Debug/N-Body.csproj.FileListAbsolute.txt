@@ -1,0 +1,42 @@
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\bin\Debug\N-Body.exe.config
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\bin\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\bin\Debug\N-Body.pdb
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\bin\Debug\Lattice.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\bin\Debug\Threading.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.csprojAssemblyReference.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\NBody.InputBox.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\NBody.Settings.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\NBody.Window.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.csproj.GenerateResource.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.csproj.CopyComplete
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\n-body-master\obj\x86\Debug\N-Body.pdb
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\bin\Debug\N-Body.exe.config
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\bin\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\bin\Debug\N-Body.pdb
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\bin\Debug\Lattice.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\bin\Debug\Threading.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.csprojAssemblyReference.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\NBody.InputBox.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\NBody.Settings.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\NBody.Window.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.csproj.GenerateResource.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.csproj.CopyComplete
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator\obj\x86\Debug\N-Body.pdb
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\bin\Debug\N-Body.exe.config
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\bin\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\bin\Debug\N-Body.pdb
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\bin\Debug\Lattice.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\bin\Debug\Threading.dll
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.csprojAssemblyReference.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\NBody.InputBox.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\NBody.Settings.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\NBody.Window.resources
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.csproj.GenerateResource.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.csproj.CopyComplete
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.exe
+E:\Facultate\Anul 2 Master\Semestrul 1\ACI\Universe Simulator Project\Universe Simulator - N-Body\obj\x86\Debug\N-Body.pdb
